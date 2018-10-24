@@ -1,18 +1,9 @@
-# hello-world
+# Python Flask app on Azure Web App for Containers
 
+This is a minimal sample app that demonstrates how to run a Python Flask application on Azure App Service on Linux.
 
-<<<<<<< HEAD
-Hello everyone, 
+For more information, please see the [Python on App Service quickstart](https://docs.microsoft.com/en-us/azure/app-service/containers/quickstart-python).
 
+# Contributing
 
-Just want to learn how this shit works.
-
-is it okay now?
-
-I just want to say hello.
-=======
-Hello everyone, just trying to learn Git-Hub and become an awesome programmer / master of the world.
-
-
-#I just want to say hello.
->>>>>>> master
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
